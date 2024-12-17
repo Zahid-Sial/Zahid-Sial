@@ -6,7 +6,8 @@
   - Programming Languages: C, C++  
   - Web Development: HTML, CSS, JavaScript  
 🚀 Looking forward to contributing to open-source projects and collaborating with the developer community.  
-📫 Reach me at: zahidmursleen004@gmail.com.  
+📫 Reach me at: zahidmursleen004@gmail.com or connect via www.linkedin.com/in/zahid-mursleen4748
+  
 
 
 <!---
